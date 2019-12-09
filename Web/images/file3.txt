@@ -1,0 +1,2 @@
+This is a text file in Repo1
+added one more line into text file
